@@ -13,7 +13,7 @@ This project is a group effort to develop an NLP application that determines the
 7. **Deployment Plan**: Write a deployment plan for RHCP on how they would utilize the results from tasks 1-6 in a production environment, including how to plan monitoring and maintenance of the final model.
 
 ## Project Result
-
+![Table screenshot](/table332_20230417005706.png)
 ### Model Evaluation
 
 In task 6, we created textual features from the cleaned review of each business, transformed the target variable to a binary target, and trained multiple classifiers with hyperparameter tuning and dimensionality reduction. We compared different classifiers and selected the best model based on its accuracy score and AUC score. 
